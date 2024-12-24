@@ -3,7 +3,7 @@ Pi Pico(1/2) breakout board designed for sim racing (can also be used for flight
 
 >Firmware is still in progress but will be uploaded when complete.
 
-[simulation_image_top](https://github.com/user-attachments/assets/85d58798-866a-4898-a920-4825c3417b80)
+![simulation_image_top](https://github.com/user-attachments/assets/85d58798-866a-4898-a920-4825c3417b80)
 
 ## Features
 **ALL PINS ARE 3.3V ONLY!**
@@ -17,3 +17,4 @@ Pi Pico(1/2) breakout board designed for sim racing (can also be used for flight
 * Built-in USB hub with VoCore USB Screen support (can be used for any USB device)
 * 11 Extra pins (with GND)
 * 2 Extra VCC pins (3.3v)
+* 2 M3 Mounting Holes (78mm x 52mm)
