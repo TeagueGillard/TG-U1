@@ -2,6 +2,7 @@
 Pi Pico(1/2) breakout board designed for sim racing (can also be used for flight sim or anything else). 
 
 >Firmware is still in progress but will be uploaded when complete.
+![simulation_image_top](https://github.com/user-attachments/assets/85d58798-866a-4898-a920-4825c3417b80)
 
 ## Features
 **ALL PINS ARE 3.3V ONLY!**
