@@ -8,7 +8,7 @@ Pi Pico(1/2) breakout board designed for sim racing (can also be used for flight
 * 16 Buttons
 * 8 Rotary Encoders
 * 2 7-Way Switches
-* 4 WS1212 RGB LED Strips
+* 4 WS1212 RGB LED Strips (LEDS < 30 per strip, see Wiki for details)
 * Dual Clutches
 * 1 Rotary Switch
 * 2 Joysticks (4 extra analog axis)
