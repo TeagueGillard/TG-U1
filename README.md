@@ -1,2 +1,17 @@
 # TG-U1
-Pi Pico(1/2) breakout board designed for sim racing. 
+Pi Pico(1/2) breakout board designed for sim racing (can also be used for flight sim or anything else). 
+
+>Firmware is still in progress but will be uploaded when complete.
+
+## Features
+**ALL PINS ARE 3.3V ONLY!**
+* 16 Buttons
+* 8 Rotary Encoders
+* 2 7-Way Switches
+* 4 WS1212 RGB LED Strips
+* Dual Clutches
+* 1 Rotary Switch
+* 2 Joysticks (4 extra analog axis)
+* Built-in USB hub with VoCore USB Screen support (can be used for any USB device)
+* 11 Extra pins (with GND)
+* 2 Extra VCC pins (3.3v)
