@@ -1,5 +1,5 @@
 # TG-U1
-Pi Pico(1/2) breakout board designed for sim racing (can also be used for flight sim or anything else). 
+Pi Pico(1/2) breakout board designed for sim racing and flight sim(or anything else)!
 
 >Firmware is available [HERE](https://github.com/TeagueGillard/TG-U1-Firmware/releases)
 
